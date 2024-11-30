@@ -5,7 +5,6 @@ project:
 website:
   title: ""
   favicon: images/noun-pint-1244806.svg
-  image: images/flann.jpg
   open-graph:
     title: "The Workman's Friend"
     description: "The Workman's Friend by Flann O'Brian"

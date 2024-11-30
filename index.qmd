@@ -80,8 +80,6 @@ A pint of plain is your only man[@cr-line23]
 
 [@cr-line25]
 
-[@cr-line26]
-
 
 ::: {#cr-line1}
 ```{r}
@@ -227,15 +225,9 @@ plot(usual(24))
 ```
 :::
 
-::: {#cr-line25}
+::: {#cr-line25 .preview-image}
 ```{r}
 plot(usual(25))
-```
-:::
-
-::: {#cr-line26}
-```{r}
-plot(usual(26))
 ```
 :::
 
