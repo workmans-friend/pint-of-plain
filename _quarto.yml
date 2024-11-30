@@ -4,7 +4,16 @@ project:
 
 website:
   title: ""
-
+  favicon: images/noun-pint-1244806.svg
+  image: images/flann.jpg
+  open-graph:
+    title: "The Workman's Friend"
+    description: "The Workman's Friend by Flann O'Brian"
+  twitter-card:
+    title: "The Workman's Friend"
+    description: "The Workman's Friend by Flann O'Brian"
+  site-url: https://workmans-friend.github.io/pint-of-plain/
+  repo-url: https://github.com/workmans-friend
 format:
   closeread-html:
     theme: darkly

@@ -2,6 +2,8 @@
 format:
   closeread-html:
     css: styles.css
+    page-title: "Pint of Plain"
+    back-to-top-navigation: true
     remove-header-space: true
     fig-width: 6
     fig-height: 5
@@ -9,8 +11,6 @@ format:
       layout: 'overlay-center'
     cr-style:
       narrative-background-color-overlay: transparent
-      # narrative-text-color-overlay: white
-      # narrative-text-color-sidebar: white
       narrative-font-size: 32
       section-background-color: black
 ---
