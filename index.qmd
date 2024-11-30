@@ -8,10 +8,12 @@ format:
     fig-width: 6
     fig-height: 5
     cr-section:
-      layout: 'overlay-center'
+      layout: 'sidebar-right'
     cr-style:
       narrative-background-color-overlay: transparent
-      narrative-font-size: 32
+      narrative-text-color-sidebar: white
+      narrative-sidebar-width: 50%
+      narrative-font-size: 64
       section-background-color: black
 ---
 
