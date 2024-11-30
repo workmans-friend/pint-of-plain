@@ -1,0 +1,47 @@
+/* css styles */
+
+body {
+  background-color: black; /* Replace with your desired color */
+}
+
+
+.narrative-col {
+  text-align: center;
+}
+
+
+.spacer{
+  height: 200vh;
+  background: black;
+}
+
+.ref {
+  text-align: center;
+  background-color: black;
+  width: 100%;
+}
+
+.ref a {
+  color: white;
+  text-decoration: underline;
+}
+
+.closing {
+  background: #d5d5d5;
+  padding: 10px;
+}
+
+.closing img {
+  display: block; /* Ensures the image behaves like a block-level element */
+  margin: 0 auto; /* Centers the image horizontally */
+  width: 50vw; /* Sets the width to 50% of the viewport width */
+  max-width: 100%; /* Ensures it doesn't exceed its natural size */
+  height: auto; /* Maintains aspect ratio */
+}
+
+.closing figcaption {
+  margin-top: 0.5em; /* Adds some spacing above the caption */
+  font-size: 0.5em; /* Optional: Adjusts the font size for the caption */
+  color: #666; /* Optional: Gives the caption a lighter color for distinction */
+  text-align: center;
+}

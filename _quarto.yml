@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+
+format:
+  closeread-html:
+    theme: darkly

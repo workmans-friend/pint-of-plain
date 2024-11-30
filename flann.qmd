@@ -1,0 +1,254 @@
+---
+format:
+  closeread-html:
+    css: styles.css
+    remove-header-space: true
+    fig-width: 6
+    fig-height: 5
+    cr-section:
+      layout: 'overlay-center'
+    cr-style:
+      narrative-background-color-overlay: transparent
+      # narrative-text-color-overlay: white
+      # narrative-text-color-sidebar: white
+      narrative-font-size: 32
+      section-background-color: black
+---
+
+```{r}
+#| label: setup
+#| echo: false
+#| output: false
+
+source(here::here('code/pint-of-plain.R'))
+
+```
+
+:::::{.cr-section}
+
+The Workman's Friend
+
+[@cr-line1] When things go wrong
+
+And will not come right[@cr-line2]
+
+Though you do the best you can[@cr-line3]
+
+When life looks black[@cr-line4]
+
+As the hour of night[@cr-line5]
+
+A pint of plain is your only man[@cr-line6]
+
+When money’s tight[@cr-line7]
+
+And hard to get[@cr-line8]
+
+And your horse has also ran[@cr-line9]
+
+When all you have is a heap of debt[@cr-line10]
+
+A pint of plain is your only man[@cr-line11]
+
+When health is bad and your heart feels strange[@cr-line12]
+
+And your face is pale and wan[@cr-line13]
+
+When doctors say you need a change[@cr-line14]
+
+A pint of plain is your only man[@cr-line15]
+
+When food is scarce[@cr-line16]
+
+And your larder bare[@cr-line17]
+
+And no rashers grease your pan[@cr-line17]
+
+When hunger grows as your meals are rare[@cr-line18]
+
+A pint of plain is your only man[@cr-line19]
+
+In time of trouble and lousey strife[@cr-line20]
+
+You have still got a darlint plan[@cr-line21]
+
+You still can turn to a brighter life[@cr-line22]
+
+A pint of plain is your only man[@cr-line23]
+
+[@cr-line24]
+
+[@cr-line25]
+
+[@cr-line26]
+
+
+::: {#cr-line1}
+```{r}
+plot(usual(1))
+```
+:::
+
+::: {#cr-line2}
+```{r}
+plot(usual(2))
+```
+:::
+
+::: {#cr-line3}
+```{r}
+plot(usual(3))
+```
+:::
+
+::: {#cr-line4}
+```{r}
+plot(usual(4))
+```
+:::
+
+::: {#cr-line5}
+```{r}
+plot(usual(5))
+```
+:::
+
+::: {#cr-line6}
+```{r}
+plot(usual(6))
+```
+:::
+
+::: {#cr-line7}
+```{r}
+plot(usual(7))
+```
+:::
+
+::: {#cr-line8}
+```{r}
+plot(usual(8))
+```
+:::
+
+::: {#cr-line9}
+```{r}
+plot(usual(9))
+```
+:::
+
+::: {#cr-line10}
+```{r}
+plot(usual(10))
+```
+:::
+
+::: {#cr-line11}
+```{r}
+plot(usual(11))
+```
+:::
+
+::: {#cr-line12}
+```{r}
+plot(usual(12))
+```
+:::
+
+::: {#cr-line13}
+```{r}
+plot(usual(13))
+```
+:::
+
+::: {#cr-line14}
+```{r}
+plot(usual(14))
+```
+:::
+
+::: {#cr-line15}
+```{r}
+plot(usual(15))
+```
+:::
+
+::: {#cr-line16}
+```{r}
+plot(usual(16))
+```
+:::
+
+::: {#cr-line17}
+```{r}
+plot(usual(17))
+```
+:::
+
+::: {#cr-line18}
+```{r}
+plot(usual(18))
+```
+:::
+
+::: {#cr-line19}
+```{r}
+plot(usual(19))
+```
+:::
+
+::: {#cr-line20}
+```{r}
+plot(usual(20))
+```
+:::
+
+::: {#cr-line21}
+```{r}
+plot(usual(21))
+```
+:::
+
+::: {#cr-line22}
+```{r}
+plot(usual(22))
+```
+:::
+
+::: {#cr-line23}
+```{r}
+plot(usual(23))
+```
+:::
+
+::: {#cr-line24}
+```{r}
+plot(usual(24))
+```
+:::
+
+::: {#cr-line25}
+```{r}
+plot(usual(25))
+```
+:::
+
+::: {#cr-line26}
+```{r}
+plot(usual(26))
+```
+:::
+
+:::::
+
+::: {.ref}
+By <a href="https://en.wikipedia.org/wiki/Flann_O%27Brien">Flann O'Brian</a>
+:::
+
+::: {.closing}
+
+<img src="images/flann.jpg">
+<figcaption>Flann O'Brian in the 1950s Photograph: The Irish Times</figcaption>
+
+:::
+
