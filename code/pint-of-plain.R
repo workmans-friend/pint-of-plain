@@ -26,8 +26,8 @@ words <- c(
   "lousey strife, You have still got a darlint",
   "plan, You still can turn to a brighter life",
   "A pint of plain is your only man",
-  "The Workman's Friend",
   "",
+  "The Workman's Friend",
   "")
 
 
@@ -57,8 +57,8 @@ p <- ggplot(plotData,
       width = 1
     ) +
     scale_y_continuous(limits = c(1, length(words))) +
-    scale_size_manual(values = c(8, 10, 13.5, 17.5)/.pt) +
-    scale_color_manual(values = list('a'="grey30", 'b'="#664E4C", 'c'="black")) +
+    scale_size_manual(values = c(10, 12.6, 17, 22)/.pt) +
+    scale_color_manual(values = list('a'="grey60", 'b'="#664E4C", 'c'="black")) +
     theme(
       legend.position = "none",
       plot.background = element_rect(fill = "black", color='black'),

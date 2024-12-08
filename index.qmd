@@ -13,7 +13,7 @@ format:
       narrative-background-color-overlay: transparent
       narrative-text-color-sidebar: white
       narrative-sidebar-width: 50%
-      narrative-font-size: 64
+      narrative-font-size: 2em
       section-background-color: black
 ---
 
@@ -81,6 +81,8 @@ A pint of plain is your only man[@cr-line23]
 [@cr-line24]
 
 [@cr-line25]
+
+[@cr-line26]
 
 
 ::: {#cr-line1}
@@ -227,9 +229,15 @@ plot(usual(24))
 ```
 :::
 
-::: {#cr-line25 .preview-image}
+::: {#cr-line25}
 ```{r}
 plot(usual(25))
+```
+:::
+
+::: {#cr-line26 .preview-image}
+```{r}
+plot(usual(26))
 ```
 :::
 
