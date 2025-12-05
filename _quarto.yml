@@ -4,6 +4,7 @@ project:
 
 website:
   title: ""
+  image: imags/flann.jpg
   favicon: images/noun-pint-1244806.svg
   open-graph:
     title: "The Workman's Friend"
