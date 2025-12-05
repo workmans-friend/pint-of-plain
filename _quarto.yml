@@ -4,7 +4,8 @@ project:
 
 website:
   title: ""
-  image: imags/flann.jpg
+  site-url: https://workmans-friend.github.io/pint-of-plain/
+  image: images/flann.jpg
   favicon: images/noun-pint-1244806.svg
   open-graph:
     title: "The Workman's Friend"
@@ -12,7 +13,6 @@ website:
   twitter-card:
     title: "The Workman's Friend"
     description: "The Workman's Friend by Flann O'Brian"
-  site-url: https://workmans-friend.github.io/pint-of-plain/
   repo-url: https://github.com/workmans-friend
 format:
   closeread-html:
