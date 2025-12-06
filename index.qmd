@@ -1,6 +1,7 @@
 ---
 format:
   closeread-html:
+    image: "/images/flann.jpg"
     css: styles.css
     page-title: "Pint of Plain"
     back-to-top-navigation: true

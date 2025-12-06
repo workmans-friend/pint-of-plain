@@ -4,8 +4,7 @@ project:
 
 website:
   title: ""
-  site-url: https://workmans-friend.github.io/pint-of-plain/
-  image: images/flann.jpg
+  site-url: "https://workmans-friend.github.io/pint-of-plain"
   favicon: images/noun-pint-1244806.svg
   open-graph:
     title: "The Workman's Friend"
