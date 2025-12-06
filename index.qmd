@@ -236,7 +236,7 @@ plot(usual(25))
 ```
 :::
 
-::: {#cr-line26 .preview-image}
+::: {#cr-line26}
 ```{r}
 plot(usual(26))
 ```
